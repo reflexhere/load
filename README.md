@@ -12,6 +12,7 @@ Step 2. Install Ubuntu 18.04 Bionic Beaver
 
 ## Get this file
    a. git clone https://github.com/reflexhere/load/blob/main/CHTATermux.tar.gz
+  
    b. tar -xf CHTATermux.tar.gz   
    c. cd CHTATermux
 
